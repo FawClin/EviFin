@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "EviFin \u2014 Personal Cashflow Manager",
+  "short_name": "EviFin",
+  "description": "EviFin by Evisionsoft \u2014 offline monthly cashflow planning and analysis",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f9fd",
+  "theme_color": "#7954e8",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
